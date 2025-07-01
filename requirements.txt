@@ -1,0 +1,7 @@
+streamlit
+supabase
+openai
+pandas
+requests
+python-dotenv
+supabase_vector_client
